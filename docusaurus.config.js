@@ -6,13 +6,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "TibiaLabs v2 API Docs",
-  tagline: "Dinosaurs are cool",
+  title: "TibiaLabs v2 API",
+  tagline: "Documentation",
   url: "https://docs.tibialabs.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -51,7 +51,7 @@ const config = {
         title: "TibiaLabs API v2",
         logo: {
           alt: "TibiaLabs Logo",
-          src: "img/woman-mage-emoji.png",
+          src: "img/logo.png",
         },
         items: [],
       },
