@@ -1,6 +1,16 @@
-# Website
+# TibiaLabs API v2 Docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+<div align="center"><img src="https://i.imgur.com/9jP3lNK.png"/></div>
+
+## Framework
+
+This documentation is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+## Contribute
+
+Feel free to contribute, send your pull requests!
+
+## How to run
 
 ### Installation
 
