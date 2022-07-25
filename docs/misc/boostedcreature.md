@@ -22,7 +22,7 @@ Werewolf
 
 Alternatively, we provide an endpoint in JSON format containing all tracked boosted creatures so far.
 
-`https://api.tibialabs.com/v2/boostedcreature/all`
+`https://api.tibialabs.com/v2/boostedcreature/list`
 
 #### Output
 

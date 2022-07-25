@@ -22,7 +22,7 @@ Drume
 
 Alternatively, we provide an endpoint in JSON format containing all tracked boosted bosses so far.
 
-`https://api.tibialabs.com/v2/boostedboss/all`
+`https://api.tibialabs.com/v2/boostedboss/list`
 
 #### Output
 
